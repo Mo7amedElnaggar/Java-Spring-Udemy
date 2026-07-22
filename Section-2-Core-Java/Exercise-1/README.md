@@ -1,4 +1,5 @@
 Variables & data types Coding Exercise
+
 Inside the already defined main method of the Exercise class, your task is to:
 
 Declare and initialize the following variables:
